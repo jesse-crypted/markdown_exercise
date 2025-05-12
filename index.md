@@ -1,9 +1,4 @@
-```
-$ git clone
-this git command clones a repository
-```
-
-```dart
-const name = Jesse
-int age = 21
-```
+- [x] Sign Up on Github
+- [x] Edit my profile
+- [] Make my first code commit
+- [] Pray in the Holy Ghost
