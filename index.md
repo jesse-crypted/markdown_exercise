@@ -1,4 +1,4 @@
 - [x] Sign Up on Github
 - [x] Edit my profile
-- [] Make my first code commit
-- [] Pray in the Holy Ghost
+- [ ] Make my first code commit
+- [ ] Pray in the Holy Ghost
