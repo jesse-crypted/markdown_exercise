@@ -1,4 +1,1 @@
-# Jesse is a Cloud Engineer
-## Jesse is a Cloud Engineer
-### Jesse is a Cloud Engineer
-###### Jesse is a Cloud Engineer
+![Image of Yatocat.](https://octodex.github.com/images/yaktocat.png)
